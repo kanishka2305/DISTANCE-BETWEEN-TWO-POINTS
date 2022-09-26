@@ -4,9 +4,12 @@
 To write a python program to find the distance two 2 points
 ## ALGORITHM:
 ### Step 1: 
+Import math function
+
 ### Step 2: 
+Assign the values of point 1 and point 2 whose distance is to be calculated
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](/154259149-8112ebd3-30fe-4b4d-8101-66632e924678.jpeg)
 ### Step 4: 
 Print the coding to get the answer
 
